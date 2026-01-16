@@ -129,6 +129,10 @@ def create_app():
     def masks_page():
         return render_template('masks.html', cameras=list(cameras.keys()))
 
+    @app.get('/roles')
+    def roles_page():
+        return render_template('roles.html')
+
     @app.post('/masks/upload')
     def masks_upload():
         cam_id = int(request.form.get('cam_id','0'))
