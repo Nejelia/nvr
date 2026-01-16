@@ -1,0 +1,61 @@
+# Global configuration
+cameras:
+  # List USB camera indices. On RPi these are usually 0..3 for four USB cams.
+  - id: 0
+    name: Cam 0
+    device_index: 0
+  - id: 1
+    name: Cam 1
+    device_index: 1
+  - id: 2
+    name: Cam 2
+    device_index: 2
+  - id: 3
+    name: Cam 3
+    device_index: 3
+
+video:
+  width: 640
+  height: 480
+  fps: 15
+  fourcc: MJPG
+
+# Modes per camera are set at runtime via the Web UI:
+# - face: perform face recognition and log hits
+# - motion: perform motion detection and log events
+# - on_motion: camera sleeps but starts recording on motion (still provides previews)
+runtime:
+  default_modes: {}  # left empty; set from UI
+
+paths:
+  faces_dir: data/faces
+  masks_dir: data/masks
+  logs_dir: data/logs
+  recordings_dir: data/recordings
+
+logging:
+  file: data/logs/events.log
+  level: INFO
+
+face:
+  algorithm: lbph
+  lbph:
+    radius: 1
+    neighbors: 8
+    grid_x: 8
+    grid_y: 8
+  min_face_size: 60
+  detection:
+    cascade: haarcascade_frontalface_default.xml  # uses cv2.data.haarcascades
+    scale_factor: 1.1
+    min_neighbors: 5
+
+motion:
+  mask_suffix: _mask.png  # per-camera mask name like cam0_mask.png
+  history: 150
+  var_threshold: 25
+  detect_shadows: false
+  min_contour_area: 600
+  dilate_iterations: 2
+
+# Event media are stored under data/events/{thumbs,clips}
