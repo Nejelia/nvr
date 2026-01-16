@@ -1,0 +1,295 @@
+2025-10-28 21:20:55,609 [INFO] Camera 0 started in mode face
+2025-10-28 21:20:55,609 [INFO] Camera 1 stopped
+2025-10-28 21:20:55,609 [INFO] Camera 2 stopped
+2025-10-28 21:20:55,609 [INFO] Camera 3 stopped
+2025-10-28 21:20:59,089 [INFO] Camera 0 started in mode face
+2025-10-28 21:20:59,089 [INFO] Camera 1 stopped
+2025-10-28 21:20:59,089 [INFO] Camera 2 stopped
+2025-10-28 21:20:59,089 [INFO] Camera 3 stopped
+2025-10-28 21:20:59,505 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251028_212059.jpg clip=cam0_20251028_212059.avi
+2025-10-28 21:20:59,508 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251028_212059.jpg clip=None
+2025-10-28 21:21:01,007 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251028_212101.jpg clip=None
+2025-10-28 21:21:02,540 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251028_212102.jpg clip=None
+2025-10-28 21:21:04,068 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251028_212104.jpg clip=None
+2025-10-28 21:21:05,606 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251028_212105.jpg clip=None
+2025-10-28 21:21:07,114 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251028_212107.jpg clip=None
+2025-10-28 21:21:08,608 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251028_212108.jpg clip=None
+2025-10-28 21:21:10,129 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251028_212110.jpg clip=None
+2025-10-28 21:21:11,646 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251028_212111.jpg clip=None
+2025-10-28 21:21:13,166 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251028_212113.jpg clip=None
+2025-10-28 21:21:14,671 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 9} snapshot=cam0_20251028_212114.jpg clip=None
+2025-10-28 21:21:16,206 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251028_212116.jpg clip=None
+2025-10-28 21:21:17,723 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251028_212117.jpg clip=None
+2025-10-28 21:21:19,244 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251028_212119.jpg clip=None
+2025-10-28 21:21:20,766 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 9} snapshot=cam0_20251028_212120.jpg clip=None
+2025-10-28 21:21:22,278 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251028_212122.jpg clip=None
+2025-10-28 21:21:23,813 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251028_212123.jpg clip=None
+2025-10-28 21:21:26,500 [INFO] Camera 0 stopped
+2025-10-28 21:21:26,500 [INFO] Camera 1 stopped
+2025-10-28 21:21:26,500 [INFO] Camera 2 stopped
+2025-10-28 21:21:26,500 [INFO] Camera 3 stopped
+2025-10-28 21:23:42,564 [INFO] Camera 0 started in mode face
+2025-10-28 21:23:42,564 [INFO] Camera 1 stopped
+2025-10-28 21:23:42,564 [INFO] Camera 2 stopped
+2025-10-28 21:23:42,564 [INFO] Camera 3 stopped
+2025-10-28 21:23:42,978 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251028_212342.jpg clip=cam0_20251028_212342.avi
+2025-10-28 21:23:44,450 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251028_212344.jpg clip=None
+2025-10-28 21:23:45,973 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251028_212345.jpg clip=None
+2025-10-28 21:23:47,476 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251028_212347.jpg clip=None
+2025-10-28 21:23:49,279 [INFO] Camera 0 stopped
+2025-10-28 21:23:49,279 [INFO] Camera 1 stopped
+2025-10-28 21:23:49,279 [INFO] Camera 2 stopped
+2025-10-28 21:23:49,279 [INFO] Camera 3 stopped
+2025-10-28 21:25:49,156 [INFO] Camera 0 started in mode face
+2025-10-28 21:25:49,156 [INFO] Camera 1 stopped
+2025-10-28 21:25:49,156 [INFO] Camera 2 stopped
+2025-10-28 21:25:49,156 [INFO] Camera 3 stopped
+2025-10-28 21:25:49,581 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251028_212549.jpg clip=cam0_20251028_212549.avi
+2025-10-28 21:25:51,072 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251028_212551.jpg clip=None
+2025-10-28 21:25:52,600 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251028_212552.jpg clip=None
+2025-10-28 21:25:54,130 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251028_212554.jpg clip=None
+2025-10-28 21:25:55,647 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251028_212555.jpg clip=None
+2025-10-28 21:25:57,166 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251028_212557.jpg clip=None
+2025-10-28 21:25:58,344 [INFO] Camera 0 stopped
+2025-10-28 21:25:58,344 [INFO] Camera 1 stopped
+2025-10-28 21:25:58,344 [INFO] Camera 2 stopped
+2025-10-28 21:25:58,344 [INFO] Camera 3 stopped
+2025-11-02 11:49:58,848 [INFO] Camera 0 started in mode face
+2025-11-02 11:49:58,848 [INFO] Camera 1 stopped
+2025-11-02 11:49:58,848 [INFO] Camera 2 stopped
+2025-11-02 11:49:58,848 [INFO] Camera 3 stopped
+2025-11-02 11:50:00,232 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 70.78615930149994} snapshot=cam0_20251102_114959.jpg clip=cam0_20251102_114959.avi
+2025-11-02 11:50:01,471 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 64.91329643498948} snapshot=cam0_20251102_115001.jpg clip=None
+2025-11-02 11:50:03,071 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 68.18614524282513} snapshot=cam0_20251102_115003.jpg clip=None
+2025-11-02 11:50:04,524 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 66.14369713606477} snapshot=cam0_20251102_115004.jpg clip=None
+2025-11-02 11:50:06,110 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 66.08603946556926} snapshot=cam0_20251102_115006.jpg clip=None
+2025-11-02 11:50:07,652 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 63.93043850529832} snapshot=cam0_20251102_115007.jpg clip=None
+2025-11-02 11:50:09,178 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 67.13403218144052} snapshot=cam0_20251102_115009.jpg clip=None
+2025-11-02 11:50:10,850 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 65.37466484892056} snapshot=cam0_20251102_115010.jpg clip=None
+2025-11-02 11:50:12,461 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 64.12593540351564} snapshot=cam0_20251102_115012.jpg clip=None
+2025-11-02 11:50:14,087 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 65.05149524973213} snapshot=cam0_20251102_115014.jpg clip=None
+2025-11-02 11:50:15,599 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 67.21057832063} snapshot=cam0_20251102_115015.jpg clip=None
+2025-11-02 11:50:17,159 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 66.7609879212887} snapshot=cam0_20251102_115017.jpg clip=None
+2025-11-02 11:50:18,822 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 73.36549333205276} snapshot=cam0_20251102_115018.jpg clip=None
+2025-11-02 11:50:20,376 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 64.82036646156006} snapshot=cam0_20251102_115020.jpg clip=None
+2025-11-02 11:50:21,891 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 63.9638161253262} snapshot=cam0_20251102_115021.jpg clip=None
+2025-11-02 11:50:23,427 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 77.21041528122765} snapshot=cam0_20251102_115023.jpg clip=None
+2025-11-02 11:50:24,976 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 62.646741129306086} snapshot=cam0_20251102_115024.jpg clip=None
+2025-11-02 11:50:26,494 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 61.61568107109867} snapshot=cam0_20251102_115026.jpg clip=None
+2025-11-02 11:50:27,127 [INFO] Camera 0 stopped
+2025-11-02 11:50:27,127 [INFO] Camera 1 stopped
+2025-11-02 11:50:27,127 [INFO] Camera 2 stopped
+2025-11-02 11:50:27,127 [INFO] Camera 3 stopped
+2025-11-16 19:06:47,506 [INFO] Camera 0 started in mode face
+2025-11-16 19:06:47,507 [INFO] Camera 1 stopped
+2025-11-16 19:06:47,507 [INFO] Camera 2 stopped
+2025-11-16 19:06:47,507 [INFO] Camera 3 stopped
+2025-11-16 19:06:48,731 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 59.6115767701179} snapshot=cam0_20251116_190648.jpg clip=cam0_20251116_190648.avi
+2025-11-16 19:06:50,026 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 52.5826334281274} snapshot=cam0_20251116_190650.jpg clip=None
+2025-11-16 19:06:51,542 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 56.08170276622449} snapshot=cam0_20251116_190651.jpg clip=None
+2025-11-16 19:06:53,076 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 47.24547983263961} snapshot=cam0_20251116_190653.jpg clip=None
+2025-11-16 19:06:54,598 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 47.611297549267825} snapshot=cam0_20251116_190654.jpg clip=None
+2025-11-16 19:06:56,119 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 57.050311319567} snapshot=cam0_20251116_190656.jpg clip=None
+2025-11-16 19:06:57,634 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 46.819558461887276} snapshot=cam0_20251116_190657.jpg clip=None
+2025-11-16 19:06:59,177 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 52.285937570521874} snapshot=cam0_20251116_190659.jpg clip=None
+2025-11-16 19:07:00,699 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 54.300560478110455} snapshot=cam0_20251116_190700.jpg clip=None
+2025-11-16 19:07:02,195 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 54.739586533766655} snapshot=cam0_20251116_190702.jpg clip=None
+2025-11-16 19:07:03,703 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 54.42033035639788} snapshot=cam0_20251116_190703.jpg clip=None
+2025-11-16 19:07:05,200 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 54.222305735086664} snapshot=cam0_20251116_190705.jpg clip=None
+2025-11-16 19:07:06,732 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 54.65554594232245} snapshot=cam0_20251116_190706.jpg clip=None
+2025-11-16 19:07:08,265 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 54.9500498115939} snapshot=cam0_20251116_190708.jpg clip=None
+2025-11-16 19:07:09,766 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 54.09563044603001} snapshot=cam0_20251116_190709.jpg clip=None
+2025-11-16 19:07:11,299 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amanatidi Valeria Stanislavovna', 'conf': 54.609331019585746} snapshot=cam0_20251116_190711.jpg clip=None
+2025-11-16 19:07:12,825 [INFO] EVENT cam=0 meta={'type': 'face', 'name': 'Amana Valeria Stanislavovna', 'conf': 52.908506873209184} snapshot=cam0_20251116_190712.jpg clip=None
+2025-11-16 19:07:13,378 [INFO] Camera 1 stopped
+2025-11-16 19:07:13,378 [INFO] Camera 2 stopped
+2025-11-16 19:07:13,378 [INFO] Camera 3 stopped
+2025-11-16 19:07:42,112 [INFO] Camera 1 stopped
+2025-11-16 19:07:42,112 [INFO] Camera 2 stopped
+2025-11-16 19:07:42,112 [INFO] Camera 3 stopped
+2025-11-16 19:07:50,709 [INFO] Camera 0 stopped
+2025-11-16 19:07:50,709 [INFO] Camera 1 stopped
+2025-11-16 19:07:50,709 [INFO] Camera 2 stopped
+2025-11-16 19:07:50,709 [INFO] Camera 3 stopped
+2025-11-16 19:45:03,034 [INFO] Camera 0 started in mode motion
+2025-11-16 19:45:03,034 [INFO] Camera 1 stopped
+2025-11-16 19:45:03,034 [INFO] Camera 2 stopped
+2025-11-16 19:45:03,034 [INFO] Camera 3 stopped
+2025-11-16 19:45:03,465 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194503.jpg clip=cam0_20251116_194503.avi
+2025-11-16 19:45:04,960 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194504.jpg clip=None
+2025-11-16 19:45:06,468 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194506.jpg clip=None
+2025-11-16 19:45:07,970 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194507.jpg clip=None
+2025-11-16 19:45:09,495 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194509.jpg clip=None
+2025-11-16 19:45:11,003 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194510.jpg clip=None
+2025-11-16 19:45:12,524 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194512.jpg clip=None
+2025-11-16 19:45:14,024 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194514.jpg clip=None
+2025-11-16 19:45:15,527 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 7} snapshot=cam0_20251116_194515.jpg clip=None
+2025-11-16 19:45:17,034 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194517.jpg clip=None
+2025-11-16 19:45:18,534 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194518.jpg clip=None
+2025-11-16 19:45:20,052 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194520.jpg clip=None
+2025-11-16 19:45:21,227 [INFO] Camera 0 stopped
+2025-11-16 19:45:21,228 [INFO] Camera 1 stopped
+2025-11-16 19:45:21,228 [INFO] Camera 2 stopped
+2025-11-16 19:45:21,228 [INFO] Camera 3 stopped
+2025-11-16 19:46:33,136 [INFO] Camera 0 stopped
+2025-11-16 19:47:12,868 [INFO] Camera 0 started in mode motion
+2025-11-16 19:47:13,269 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251116_194713.jpg clip=cam0_20251116_194713.avi
+2025-11-16 19:47:14,747 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194714.jpg clip=None
+2025-11-16 19:47:16,671 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194716.jpg clip=None
+2025-11-16 19:47:18,181 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194718.jpg clip=None
+2025-11-16 19:47:19,700 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194719.jpg clip=None
+2025-11-16 19:47:21,226 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251116_194721.jpg clip=None
+2025-11-16 19:47:22,776 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194722.jpg clip=None
+2025-11-16 19:47:24,303 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 7} snapshot=cam0_20251116_194724.jpg clip=None
+2025-11-16 19:47:25,824 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194725.jpg clip=None
+2025-11-16 19:47:27,379 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194727.jpg clip=None
+2025-11-16 19:47:29,002 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194728.jpg clip=None
+2025-11-16 19:47:30,526 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194730.jpg clip=None
+2025-11-16 19:47:32,036 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194732.jpg clip=None
+2025-11-16 19:47:33,770 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194733.jpg clip=None
+2025-11-16 19:47:35,330 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194735.jpg clip=None
+2025-11-16 19:47:36,835 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194736.jpg clip=None
+2025-11-16 19:47:38,338 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194738.jpg clip=None
+2025-11-16 19:47:39,867 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194739.jpg clip=None
+2025-11-16 19:47:41,367 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194741.jpg clip=None
+2025-11-16 19:47:44,247 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194744.jpg clip=None
+2025-11-16 19:47:45,938 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194745.jpg clip=None
+2025-11-16 19:47:47,438 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194747.jpg clip=None
+2025-11-16 19:47:48,939 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194748.jpg clip=None
+2025-11-16 19:47:50,447 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194750.jpg clip=None
+2025-11-16 19:47:51,971 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194751.jpg clip=None
+2025-11-16 19:47:53,639 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194753.jpg clip=None
+2025-11-16 19:47:55,161 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194755.jpg clip=None
+2025-11-16 19:47:56,666 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194756.jpg clip=None
+2025-11-16 19:47:58,202 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251116_194758.jpg clip=None
+2025-11-16 19:47:59,711 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194759.jpg clip=None
+2025-11-16 19:48:02,298 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194802.jpg clip=None
+2025-11-16 19:48:04,100 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194804.jpg clip=None
+2025-11-16 19:48:05,639 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194805.jpg clip=None
+2025-11-16 19:48:07,167 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194807.jpg clip=None
+2025-11-16 19:48:13,806 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194813.jpg clip=cam0_20251116_194813.avi
+2025-11-16 19:48:15,276 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194815.jpg clip=None
+2025-11-16 19:48:18,357 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194818.jpg clip=None
+2025-11-16 19:48:20,300 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194820.jpg clip=None
+2025-11-16 19:48:21,835 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194821.jpg clip=None
+2025-11-16 19:48:23,378 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194823.jpg clip=None
+2025-11-16 19:48:24,910 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194824.jpg clip=None
+2025-11-16 19:48:26,419 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194826.jpg clip=None
+2025-11-16 19:48:27,928 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194827.jpg clip=None
+2025-11-16 19:48:29,709 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194829.jpg clip=None
+2025-11-16 19:48:31,470 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194831.jpg clip=None
+2025-11-16 19:48:33,061 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194833.jpg clip=None
+2025-11-16 19:48:34,967 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194834.jpg clip=None
+2025-11-16 19:48:36,470 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194836.jpg clip=None
+2025-11-16 19:48:37,990 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194837.jpg clip=None
+2025-11-16 19:48:39,495 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194839.jpg clip=None
+2025-11-16 19:48:40,999 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194840.jpg clip=None
+2025-11-16 19:48:42,529 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194842.jpg clip=None
+2025-11-16 19:48:44,060 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 7} snapshot=cam0_20251116_194844.jpg clip=None
+2025-11-16 19:48:45,562 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194845.jpg clip=None
+2025-11-16 19:48:47,075 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194847.jpg clip=None
+2025-11-16 19:48:48,577 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194848.jpg clip=None
+2025-11-16 19:48:50,089 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 9} snapshot=cam0_20251116_194850.jpg clip=None
+2025-11-16 19:48:51,600 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194851.jpg clip=None
+2025-11-16 19:48:53,128 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194853.jpg clip=None
+2025-11-16 19:48:54,639 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194854.jpg clip=None
+2025-11-16 19:48:56,164 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194856.jpg clip=None
+2025-11-16 19:48:57,697 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194857.jpg clip=None
+2025-11-16 19:48:59,222 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194859.jpg clip=None
+2025-11-16 19:49:00,728 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194900.jpg clip=None
+2025-11-16 19:49:02,234 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194902.jpg clip=None
+2025-11-16 19:49:05,439 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194905.jpg clip=None
+2025-11-16 19:49:06,962 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194906.jpg clip=None
+2025-11-16 19:49:08,494 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194908.jpg clip=None
+2025-11-16 19:49:10,931 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194910.jpg clip=None
+2025-11-16 19:49:12,665 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194912.jpg clip=None
+2025-11-16 19:49:14,171 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194914.jpg clip=None
+2025-11-16 19:49:15,686 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194915.jpg clip=None
+2025-11-16 19:49:17,188 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194917.jpg clip=None
+2025-11-16 19:49:18,700 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194918.jpg clip=None
+2025-11-16 19:49:20,231 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194920.jpg clip=None
+2025-11-16 19:49:21,741 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194921.jpg clip=None
+2025-11-16 19:49:23,252 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194923.jpg clip=None
+2025-11-16 19:49:24,780 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194924.jpg clip=None
+2025-11-16 19:49:26,301 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194926.jpg clip=None
+2025-11-16 19:49:27,793 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251116_194927.jpg clip=None
+2025-11-16 19:49:29,319 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194929.jpg clip=None
+2025-11-16 19:49:30,826 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194930.jpg clip=None
+2025-11-16 19:49:32,443 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194932.jpg clip=None
+2025-11-16 19:49:33,949 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194933.jpg clip=None
+2025-11-16 19:49:35,454 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 7} snapshot=cam0_20251116_194935.jpg clip=None
+2025-11-16 19:49:36,987 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194936.jpg clip=None
+2025-11-16 19:49:38,507 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194938.jpg clip=None
+2025-11-16 19:49:40,012 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194940.jpg clip=None
+2025-11-16 19:49:41,516 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194941.jpg clip=None
+2025-11-16 19:49:43,016 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194943.jpg clip=None
+2025-11-16 19:49:44,539 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194944.jpg clip=None
+2025-11-16 19:49:46,045 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194946.jpg clip=None
+2025-11-16 19:49:47,550 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 6} snapshot=cam0_20251116_194947.jpg clip=None
+2025-11-16 19:49:49,052 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_194949.jpg clip=None
+2025-11-16 19:49:50,256 [INFO] Camera 1 started in mode motion
+2025-11-16 19:49:50,256 [INFO] Camera 2 stopped
+2025-11-16 19:49:50,256 [INFO] Camera 3 stopped
+2025-11-16 19:49:50,257 [INFO] Camera 1 started in mode motion
+2025-11-16 19:49:50,257 [INFO] Camera 2 stopped
+2025-11-16 19:49:50,257 [INFO] Camera 3 stopped
+2025-11-16 19:49:50,565 [INFO] Camera 2 stopped
+2025-11-16 19:49:50,566 [INFO] Camera 3 stopped
+2025-11-16 19:49:50,588 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 1} snapshot=cam1_20251116_194950.jpg clip=cam1_20251116_194950.avi
+2025-11-16 19:49:50,588 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_194950.jpg clip=None
+2025-11-16 19:49:52,107 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194952.jpg clip=None
+2025-11-16 19:49:52,112 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 5} snapshot=cam1_20251116_194952.jpg clip=None
+2025-11-16 19:49:53,614 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 2} snapshot=cam1_20251116_194953.jpg clip=None
+2025-11-16 19:49:53,644 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_194953.jpg clip=None
+2025-11-16 19:49:55,150 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251116_194955.jpg clip=None
+2025-11-16 19:49:55,155 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 8} snapshot=cam1_20251116_194955.jpg clip=None
+2025-11-16 19:49:56,651 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194956.jpg clip=None
+2025-11-16 19:49:56,675 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 4} snapshot=cam1_20251116_194956.jpg clip=None
+2025-11-16 19:49:58,178 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 3} snapshot=cam1_20251116_194958.jpg clip=None
+2025-11-16 19:49:58,221 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_194958.jpg clip=None
+2025-11-16 19:49:59,682 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 10} snapshot=cam1_20251116_194959.jpg clip=None
+2025-11-16 19:49:59,740 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_194959.jpg clip=None
+2025-11-16 19:50:01,192 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 8} snapshot=cam1_20251116_195001.jpg clip=None
+2025-11-16 19:50:01,716 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195001.jpg clip=None
+2025-11-16 19:50:02,715 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 3} snapshot=cam1_20251116_195002.jpg clip=None
+2025-11-16 19:50:03,371 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195003.jpg clip=None
+2025-11-16 19:50:04,225 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 7} snapshot=cam1_20251116_195004.jpg clip=None
+2025-11-16 19:50:05,357 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195005.jpg clip=None
+2025-11-16 19:50:05,735 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 7} snapshot=cam1_20251116_195005.jpg clip=None
+2025-11-16 19:50:07,157 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195007.jpg clip=None
+2025-11-16 19:50:07,258 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 6} snapshot=cam1_20251116_195007.jpg clip=None
+2025-11-16 19:50:08,671 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 2} snapshot=cam0_20251116_195008.jpg clip=None
+2025-11-16 19:50:08,775 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 8} snapshot=cam1_20251116_195008.jpg clip=None
+2025-11-16 19:50:10,287 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 10} snapshot=cam1_20251116_195010.jpg clip=None
+2025-11-16 19:50:10,535 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195010.jpg clip=None
+2025-11-16 19:50:11,802 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 13} snapshot=cam1_20251116_195011.jpg clip=None
+2025-11-16 19:50:12,788 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195012.jpg clip=None
+2025-11-16 19:50:13,333 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 7} snapshot=cam1_20251116_195013.jpg clip=None
+2025-11-16 19:50:14,303 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 4} snapshot=cam0_20251116_195014.jpg clip=None
+2025-11-16 19:50:14,846 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 8} snapshot=cam1_20251116_195014.jpg clip=None
+2025-11-16 19:50:15,930 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195015.jpg clip=None
+2025-11-16 19:50:16,335 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 7} snapshot=cam1_20251116_195016.jpg clip=None
+2025-11-16 19:50:17,465 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_195017.jpg clip=None
+2025-11-16 19:50:17,846 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 2} snapshot=cam1_20251116_195017.jpg clip=None
+2025-11-16 19:50:18,992 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_195018.jpg clip=None
+2025-11-16 19:50:19,393 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 2} snapshot=cam1_20251116_195019.jpg clip=None
+2025-11-16 19:50:20,507 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_195020.jpg clip=None
+2025-11-16 19:50:20,951 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 9} snapshot=cam1_20251116_195020.jpg clip=None
+2025-11-16 19:50:20,951 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 9} snapshot=cam1_20251116_195020.jpg clip=None
+2025-11-16 19:50:22,055 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_195022.jpg clip=None
+2025-11-16 19:50:22,473 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 1} snapshot=cam1_20251116_195022.jpg clip=None
+2025-11-16 19:50:23,557 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 3} snapshot=cam0_20251116_195023.jpg clip=None
+2025-11-16 19:50:23,981 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 3} snapshot=cam1_20251116_195023.jpg clip=None
+2025-11-16 19:50:25,070 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195025.jpg clip=None
+2025-11-16 19:50:25,489 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 3} snapshot=cam1_20251116_195025.jpg clip=None
+2025-11-16 19:50:26,577 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 8} snapshot=cam0_20251116_195026.jpg clip=None
+2025-11-16 19:50:27,022 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 1} snapshot=cam1_20251116_195027.jpg clip=None
+2025-11-16 19:50:28,092 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_195028.jpg clip=None
+2025-11-16 19:50:28,566 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 3} snapshot=cam1_20251116_195028.jpg clip=None
+2025-11-16 19:50:29,659 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195029.jpg clip=None
+2025-11-16 19:50:30,069 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 7} snapshot=cam1_20251116_195030.jpg clip=None
+2025-11-16 19:50:31,193 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195031.jpg clip=None
+2025-11-16 19:50:31,578 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 7} snapshot=cam1_20251116_195031.jpg clip=None
+2025-11-16 19:50:32,729 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 5} snapshot=cam0_20251116_195032.jpg clip=None
+2025-11-16 19:50:33,172 [INFO] EVENT cam=1 meta={'type': 'motion', 'boxes': 3} snapshot=cam1_20251116_195033.jpg clip=None
+2025-11-16 19:50:34,280 [INFO] EVENT cam=0 meta={'type': 'motion', 'boxes': 1} snapshot=cam0_20251116_195034.jpg clip=None
