@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h4>Motion Masks</h4>
+<p>Upload a per-camera binary mask (PNG). White areas = active zones for motion detection, black = ignored. You can also download the current mask, edit it, and re-upload.</p>
+<div class="grid">
+{% for cid in cameras %}
+  <div class="cam">
+    <h5>Camera {{cid}}</h5>
+    <form method="post" action="{{ url_for('masks_upload') }}" enctype="multipart/form-data">
+      <input type="hidden" name="cam_id" value="{{cid}}"/>
+      <a href="{{ url_for('download_mask', cam_id=cid) }}">Download current mask</a><br/><br/>
+      <input type="file" name="file" accept="image/png,image/*" required />
+      <button type="submit">Upload mask</button>
+    </form>
+  </div>
+{% endfor %}
+</div>
+{% endblock %}

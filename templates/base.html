@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ATM CCTV</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/milligram@1.4.1/dist/milligram.min.css">
+  <style>
+    body { margin: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(320px,1fr)); gap: 12px; }
+    .cam { border: 1px solid #ccc; padding: 8px; border-radius: 8px; }
+    img { width: 100%; height: auto; }
+    pre { max-height: 60vh; overflow:auto; background:#111; color:#eee; padding:10px; }
+  </style>
+</head>
+<body>
+  <h3>ATM CCTV on Raspberry Pi 4</h3>
+  <nav>
+    <a href="{{ url_for('index') }}">Dashboard</a> |
+    <a href="{{ url_for('logs_page') }}">Logs</a> |
+    <a href="{{ url_for('faces_list') }}">Face DB</a> |
+    <a href="{{ url_for('masks_page') }}">Motion Masks</a>
+  </nav>
+  <hr/>
+  {% block content %}{% endblock %}
+</body>
+</html>

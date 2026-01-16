@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block content %}
+<h4>Events log (last 1000 lines)</h4>
+<div>
+  {% for line in lines %}
+    {% if 'EVENT' in line %}
+      {% set snap = None %}
+      {% set clip = None %}
+      {% set meta = None %}
+      {% set parts = line.split() %}
+      {% for p in parts %}
+        {% if p.startswith('snapshot=') %}
+          {% set snap = p[9:] %}
+        {% elif p.startswith('clip=') %}
+          {% set clip = p[5:] %}
+        {% elif p.startswith('meta=') %}
+          {% set meta = p[5:] %}
+        {% endif %}
+      {% endfor %}
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;">
+        {% if snap and snap != 'None' %}
+          <img src="{{ url_for('events_file', folder='thumbs', fname=snap.strip()) }}" style="width:160px;height:auto;border:1px solid #ccc;border-radius:4px;" />
+        {% endif %}
+        <div>
+          <code style="display:block; white-space:pre-wrap;">{{ line.strip() }}</code>
+          {% if clip and clip != 'None' %}
+            <a href="{{ url_for('events_file', folder='clips', fname=clip.strip()) }}" target="_blank">Download clip</a>
+          {% endif %}
+        </div>
+      </div>
+    {% else %}
+      <pre style="margin:0">{{ line }}</pre>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}

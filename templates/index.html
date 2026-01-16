@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+<form id="modesForm">
+  <label>Set camera modes and start:</label>
+  <div class="grid">
+    {% for cid in cameras %}
+    <div class="cam">
+      <h5>Camera {{ cid }}</h5>
+      <img src="{{ url_for('stream', cam_id=cid) }}" />
+      <label>Mode</label>
+      <select name="mode_{{cid}}">
+        <option value="">Stopped</option>
+        <option value="face">FaceID</option>
+        <option value="motion">Motion</option>
+        <option value="on_motion">Record on motion</option>
+      </select>
+    </div>
+    {% endfor %}
+  </div>
+  <button type="submit">Start</button>
+  <button id="btnStop" type="button">Stop all</button>
+</form>
+
+<script>
+document.getElementById('modesForm').addEventListener('submit', async (e)=>{
+  e.preventDefault();
+  const data = {modes:{}};
+  {% for cid in cameras %}
+    data.modes["{{cid}}"] = e.target["mode_{{cid}}"].value || null;
+  {% endfor %}
+  const r = await fetch('/api/start',{method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(data)});
+  location.reload();
+});
+document.getElementById('btnStop').addEventListener('click', async ()=>{
+  await fetch('/api/stop',{method:'POST'});
+  location.reload();
+});
+</script>
+{% endblock %}
